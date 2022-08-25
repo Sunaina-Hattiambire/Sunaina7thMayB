@@ -1,4 +1,4 @@
-package datatypespract;
+package MyJavaProgram;
 
 public class myJavaProg {
 	static int a=10;
@@ -7,6 +7,7 @@ public class myJavaProg {
 	public void addition() {
 		int c=a+b;
 		System.out.println(c);
+		System.out.println(a);
 	}
 
 public static void main(String[] args){
